@@ -7,17 +7,14 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
--->
-# Swift developer 🍎
-Still Coding In After Hours...
-</br></br>
-<div align = "center">
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=targetyoo&show_icons=true&theme=gruvbox)](https://github.com/targetyoo/github-readme-stats)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=Weekoding&postId=32)](https://github.com/loosie/github-readme-tistory-card)
-</div>
 
+
+-->
+# Swift developer 🍎
+Still Coding In After Hours...
 <!--
 **targetyoo/targetyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
